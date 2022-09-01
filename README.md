@@ -40,7 +40,7 @@ Posso dizer que em um futuro não muito distante irei realizar meu sonho e me to
  
   
  
- ![c633c20ede82f0e0ced7d570dbe3a1f3](https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif)
+ ![c633c20ede82f0e0ced7d570dbe3a1f3](https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)
 
 ## Minhas Skills👨🏻‍💻
 
