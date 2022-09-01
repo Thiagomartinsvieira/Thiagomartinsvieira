@@ -40,7 +40,7 @@ Posso dizer que em um futuro não muito distante irei realizar meu sonho e me to
  
   
  
- ![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg)
+ ![c633c20ede82f0e0ced7d570dbe3a1f3](https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif)
 
 ## Minhas Skills👨🏻‍💻
 
@@ -54,7 +54,7 @@ Posso dizer que em um futuro não muito distante irei realizar meu sonho e me to
 <div align="center">
   <a href="https://github.com/Thiagomartinsvieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagomartinsvieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagomartinsvieira&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
