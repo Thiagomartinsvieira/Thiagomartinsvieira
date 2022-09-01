@@ -54,6 +54,7 @@ Posso dizer que em um futuro não muito distante irei realizar meu sonho e me to
 <div align="center">
   <a href="https://github.com/Thiagomartinsvieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagomartinsvieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagomartinsvieira&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
