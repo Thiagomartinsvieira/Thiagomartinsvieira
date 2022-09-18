@@ -3,7 +3,7 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://th.bing.com/th/id/R.18a4949fc9c8067172d3b96e302e7097?rik=y%2fqSLkqBLqtXYw&pid=ImgRaw&r=0)
  
  
-<h4>
+<h4 align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-martins-vieira-074550192/)
 [![Instagram](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/thiago1258/)
