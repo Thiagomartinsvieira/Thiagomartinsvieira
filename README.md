@@ -26,7 +26,7 @@ Olá, Meu Nome é Thiago
 
 
  - Olá Sejam todos bem vindos ao meu GitHub! É um enorme prazer poder mostrar através do meu repositório publico tudo que venho aprendendo no decorrer dos meus estudos.
- Pra quem não me conhece meu nome é Thiago , Tenho 22 Anos de idade, Trabalho Atualmente como Analista de Service Desk e tenho experiência com suporte de nível sénior a computadores e dispositivos moveis em uma empresa de equipamentos eletrônicos e softwares conhecida mundialmente.
+ Pra quem não me conhece meu nome é Thiago , Tenho 23 Anos de idade, Trabalho Atualmente como Analista de Service Desk e tenho experiência com suporte de nível sénior a computadores e dispositivos moveis em uma empresa de equipamentos eletrônicos e softwares conhecida mundialmente.
 - Desde cedo sempre fui apaixonado por estudar assuntos sobre tecnologia, comecei a estudar alguns cursos pela plataforma online do CursoemVídeo até que me interessei e praticamente me apaixonei pelas tecnologias de Desenvolvimento front-end (HTML, CSS e JavaScript).
 Posso dizer que em um futuro não muito distante irei realizar meu sonho e me tornarei um Desenvolvedor Web Front-end! 💻
 
