@@ -35,8 +35,8 @@ Posso dizer que em um futuro não muito distante irei realizar meu sonho e me to
 
  
   - JavaScript
-  - HTML5
-  - CSS3 
+  - TypeScript
+  - React
       
  
   
