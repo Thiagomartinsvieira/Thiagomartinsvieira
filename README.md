@@ -37,6 +37,7 @@ Posso dizer que em um futuro não muito distante irei realizar meu sonho e me to
   - JavaScript
   - TypeScript
   - React
+  - Next.js
       
  
   
