@@ -1,57 +1,43 @@
-<h4 align="center">
+<h1 align="center"><b>Hello, I'm Thiago Martins </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<h4 align="center">I'm a Frontend Web Developer learning how to code better everyday.</h4>
 
-
-<h4 align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-martins-vieira-074550192/)
-[![Instagram](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/thiago1258/)
-[![whatsap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511962903104)
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://thiagomartinsvieira.github.io/Meu_Portifolio/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://pt-br.facebook.com/thiagomartinsvieira.martins)
-<a href = "mailto:thiagoalagadico@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-
-
-</h4>
-
-<h3 align="center">  <br>
-
-Olá, Meu Nome é Thiago
 <br>
 
-</h3>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+<p align="center">Hello, I'm Thiago Martins , a front-end developer with a passion for technology, looking for opportunities to apply my knowledge and improve my skills.</p>
 
- - Olá Sejam todos bem vindos ao meu GitHub! É um enorme prazer poder mostrar através do meu repositório publico tudo que venho aprendendo no decorrer dos meus estudos.
- Pra quem não me conhece meu nome é Thiago , Tenho 23 Anos de idade, Trabalho Atualmente como Analista de Service Desk e tenho experiência com suporte de nível sénior a computadores e dispositivos moveis em uma empresa de equipamentos eletrônicos e softwares conhecida mundialmente.
-- Desde cedo sempre fui apaixonado por estudar assuntos sobre tecnologia, comecei a estudar alguns cursos pela plataforma online do CursoemVídeo até que me interessei e praticamente me apaixonei pelas tecnologias de Desenvolvimento front-end (HTML, CSS e JavaScript).
-Posso dizer que em um futuro não muito distante irei realizar meu sonho e me tornarei um Desenvolvedor Web Front-end! 💻
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
+<a href="https://www.typescriptlang.org" target="_blank"> <img align="center" alt="Typescript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a>
+<a href="https://pt-br.reactjs.org" target="_blank"> <img align="center" alt="React icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> </a>
+<a href="https://nextjs.org/" target="_blank"> <img align="center" alt="NextJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> </a>
+<a href="https://redux.js.org/" target="_blank"> <img align="center" alt="Redux icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"> </a>
+<a href="https://jestjs.io/" target="_blank"> <img align="center" alt="Jest icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> </a>
+<a href="https://sass-lang.com/" target="_blank"> <img align="center" alt="SASS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> </a>
+<a href="https://www.markdownguide.org/getting-started/" target="_blank"> <img align="center" alt="Markdown icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"> </a>
 
-## Tecnologias que estou estudando atualmente 💻
+<a href="https://nodejs.org/en/" target="_blank"> <img align="center" alt="NodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> </a>
+<a href="https://firebase.google.com/?hl=pt" target="_blank"> <img align="center" alt="Firebase icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"> </a>
 
+<a href="https://www.linux.org/pages/download/" target="_blank"> <img align="center" alt="Linux icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Git icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> </a>
+<a href="https://github.com/" target="_blank"> <img align="center" alt="GitHub icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> </a>
 
-  - JavaScript
-  - TypeScript
-  - React
-  - Next.js
+<br>
 
+#### Rede Sociais!
 
+🏡 [Website](https://portfolio-plum-rho-75.vercel.app/)
+📷 [Instagram](https://www.instagram.com/thiago1258/)
+📧 [E-Mail](mailto:thiagoalagadico@hotmail.com)
+👔 [LinkedIn](https://www.linkedin.com/in/thiago-martins-vieira-074550192/)
 
-
- ![c633c20ede82f0e0ced7d570dbe3a1f3](https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)
-
-## Minhas Skills👨🏻‍💻
-
- ![Github Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Github Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![Github Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
- ![Github Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
+<br>
 
 <div align="center">
   <a href="https://github.com/Thiagomartinsvieira">
