@@ -32,7 +32,7 @@
 
 <br>
 
-#### Rede Sociais!
+#### Social Media!
 
 🏡 [Website](https://portfolio-plum-rho-75.vercel.app/)
 📷 [Instagram](https://www.instagram.com/thiago1258/)
