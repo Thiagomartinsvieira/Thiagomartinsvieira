@@ -14,6 +14,7 @@
 <a href="https://nextjs.org/" target="_blank"> <img align="center" alt="NextJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> </a>
 <a href="https://redux.js.org/" target="_blank"> <img align="center" alt="Redux icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"> </a>
 <a href="https://jestjs.io/" target="_blank"> <img align="center" alt="Jest icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="center" alt="Tailwindcss icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img align="center" alt="SASS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> </a>
