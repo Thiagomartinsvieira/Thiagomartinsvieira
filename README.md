@@ -1,4 +1,4 @@
-\<h1 align="center"><b>Hello, I'm Thiago Martins </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I'm Thiago Martins </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4 align="center">I'm a Frontend Web Developer learning how to code better everyday.</h4>
 
