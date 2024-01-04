@@ -1,11 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3Ch1%3EHello%2C+I'm+Thiago+Martins%3C%2Fh1%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=%3Ch1%3EHello%2C+I'm+Thiago+Martins%3C%2Fh1%3E)](https://git.io/typing-svg)
 
 </div>
 
 
-<h4 align="center">I'm a Frontend Web Developer learning how to code better everyday.</h4>
+<h4 align="center">I'm a Front-end Web Developer learning how to code better everyday.</h4>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
