@@ -27,9 +27,11 @@
 </p>
 
 <p align="center">
-<a href="https://nodejs.org/en/" target="_blank"> <img align="center" alt="NodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> </a>
-<a href="https://firebase.google.com/?hl=pt" target="_blank"> <img align="center" alt="Firebase icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"> </a>
+<a href="https://nodejs.org/" target="_blank"> <img align="center" alt="NodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> </a>
+<a href="https://expressjs.com/" target="_blank"> <img align="center" alt="Express.js icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="center" alt="Firebase icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"> </a>
 </p>
+
 <p align="center">
 <a href="https://www.linux.org/pages/download/" target="_blank"> <img align="center" alt="Linux icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Git icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> </a>
