@@ -20,7 +20,7 @@
 <a href="https://pt-br.reactjs.org" target="_blank"> <img align="center" alt="React icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> </a>
 <a href="https://vuejs.org/" target="_blank"> <img align="center" alt="Vue.JS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> </a>
 <a href="https://nextjs.org/" target="_blank"> <img align="center" alt="NextJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img align="center" alt="Tailwindcss icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="center" alt="Tailwindcss icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"> </a>
 </p>
 
 
