@@ -5,7 +5,7 @@
 </div>
 
 
-<h4 align="center">I'm a Front-end Web Developer learning how to code better everyday.</h4>
+<h4 align="center">I'm a Fullstack Developer learning how to code better everyday.</h4>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
